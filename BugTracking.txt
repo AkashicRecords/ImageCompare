@@ -1,0 +1,70 @@
+Bugs: 
+
+569d62b6-9e4d-4af4-a317-39f4bd2c244c - only comparing 3 of 4 images
+
+*********************************************************************
+
+6F9E51C4-0A72-4E9D-8E13-21B0E624AEFB - No Original, Breaking
+
+bool originalFileAvailable = true; Changes from false to true before logic can be implemented
+
+
+*********************************************************************
+
+Tolorance set to 40, needs to be opened more
+
+
+*********************************************************************
+
+6322a0c5-b87c-48bd-994d-fae9a04e49ce - not matching
+
+*********************************************************************
+
+Missing from SAN daceb651-b8c6-4fe8-b37d-6c594ffd4847
+
+**************************************************************************
+
+Out of memeory:ImageID: 
+
+ImageID: 
+4A202B78-4E6F-4024-8017-C44E9046BFE1
+
+http://vdlimages.xboxlive.com/CONTENT/IMAGES//2f/8305861c-c15a-4806-939a-84fc037ae74e.jpg 
+file is not available.
+
+****************************************************************************
+
+Error : Input Invalid Exception
+
+
+ImageID: 4471f475-85a0-48dc-aa4c-5b8813266e3c
+
+ImageInstaceID: 1b984ab1-658b-40be-870e-6e80e15f4be2
+
+
+*********************************************************************************
+Error : Input Invalid Exception
+
+
+ImageID: 68ada485-715f-4bca-8d69-6784ffc35ad7
+
+
+
+
+
+ImageID: 4A202B78-4E6F-4024-8017-C44E9046BFE1
+
+ImageInstaceID: 3320d07e-e7d4-425f-8abe-b6417bce9c07
+
+
+
+***************************************************************************
+Out of Memory Excepption
+
+ImageID: d7ae01ca-29fe-42e9-b341-e25df01a1b75
+ImageInastaceID : 4E637FED-B087-4317-AA5C-EB9DEBBBEB4E
+
+
+
+ImageID: 8664F8A2-8B0A-413C-851A-A348ECB0CC7B
+ImageinstanceID: 7dfc97cb-b883-4f7f-aa90-449bd036c482
